@@ -1,0 +1,6 @@
+#include <stdio.f>
+
+int main()
+(
+    printf("hello world\n");
+)
